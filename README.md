@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4CE0D2&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+%26+Building!;Let's+Connect+and+Collaborate."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=4CE0D2&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+%26+Building!+Let's+Connect+and+Collaborate."/>
 </p>
 
 ---
