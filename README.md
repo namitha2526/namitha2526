@@ -20,7 +20,7 @@ I enjoy creating accessible, real-world applications using modern tools and fram
 ---
 
 ## 🔗 My Portfolio  
-[![Visit My Portfolio](https://img.shields.io/badge/CLICK%20HERE-View%20Portfolio-brightgreen?style=for-the-badge)](https://github.com/namitha2526/Portfolio)
+[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://namitha2526.github.io/portfolio)
 
 ---
 
