@@ -12,13 +12,6 @@
 I'm a CSE student passionate about **AI/ML** and **Web Development**.  
 I enjoy creating accessible, real-world applications using modern tools and frameworks.
 
-### 🧠 Featured Projects
-- 🧬 **Predictive AI Model** for **Thalassemia Detection** in Offsprings  
-- 🤖 **JarrvisAI** – A Desktop Voice Assistant  
-- 💬 **AI Interview Chatbot** – Conducts mock interviews using NLP
-
----
-
 ## 🔗 My Portfolio  
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://namitha2526.github.io/Portfolio/)
 
@@ -49,10 +42,5 @@ I enjoy creating accessible, real-world applications using modern tools and fram
 ![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namitha2526&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namitha2526&layout=compact&theme=tokyonight)
-
----
-
-## 🎧 Current Vibes
-🎵 Listening to Lo-Fi | 🔁 Focus Mode: `Activated`
 
 ---
