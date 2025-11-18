@@ -15,32 +15,52 @@ I enjoy creating accessible, real-world applications using modern tools and fram
 ## 🔗 My Portfolio  
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://namitha2526.github.io/Portfolio/)
 
+# 🌿 Namitha R – AI/ML & Full-Stack Engineering  
+
+### ⚙️ Tech Stack & Tools
+
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+#### **Machine Learning & Data**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+#### **AI / LLM Platforms**
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052FAD?logo=ibm&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+#### **Web Development**
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+#### **Data Visualization**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-0088FE?logo=recharts&logoColor=white)
+
+#### **DevOps / Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/namitha-r-b52799310/)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:nnnamitha26@gmaiil.com)
-
----
-
-## 🧰 Tech Stack & Proficiency
-
-![Python](https://img.shields.io/badge/Python-85%25-yellow?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-75%25-orange?style=flat&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-80%25-yellow?style=flat&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-80%25-lightgrey?style=flat&logo=pandas)
-![HTML](https://img.shields.io/badge/HTML-75%25-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-70%25-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-65%25-lightblue?style=flat&logo=mysql)
-
----
-
-## 📈 GitHub Stats & Achievements
-
-![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namitha2526&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namitha2526&layout=compact&theme=tokyonight)
-
----
+### 📬 Connect  
+**LinkedIn:** www.linkedin.com/in/namitha-r-b52799310  
+**GitHub:** https://github.com/namitha2526  
+**Email:** nnnamitha26@gmaiil.com  
