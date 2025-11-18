@@ -38,7 +38,7 @@ My focus is on high-impact systems — predictive models, intelligent agents, an
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black">
       <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
     </td>
-     <!-- Column 2 -->
+    <!-- Column 2 -->
     <td style="padding-left: 40px;">
       <h3>🗄️ Databases</h3>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
@@ -53,6 +53,16 @@ My focus is on high-impact systems — predictive models, intelligent agents, an
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     </td>
+    <!-- Column 4 -->
+    <td style="padding-left: 40px;">
+      <h3>🌐 Web Development</h3>
+      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+    </td>
+
   </tr>
 </table>
 
