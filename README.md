@@ -9,13 +9,11 @@
 
 ## 🔍 About Me
 
-I'm a CSE student passionate about **AI/ML** and **Web Development**.  
-I enjoy creating accessible, real-world applications using modern tools and frameworks.
+I work across AI/ML engineering, full-stack development, and accessible product design.  
+My focus is on high-impact systems — predictive models, intelligent agents, and end-to-end web apps.
 
 ## 🔗 My Portfolio  
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://namitha2526.github.io/Portfolio/)
-
-# 🌿 Namitha R – AI/ML & Full-Stack Engineering  
 
 ### ⚙️ Tech Stack & Tools
 
@@ -59,6 +57,11 @@ I enjoy creating accessible, real-world applications using modern tools and fram
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
+## 📈 Currently Working On  
+- Building agent pipelines using Watsonx  
+- Strengthening DSA (Python)  
+- Full-stack portfolio revamp  
+- Interview prep for AI/ML + SWE roles
 
 ### 📬 Connect  
 **LinkedIn:** www.linkedin.com/in/namitha-r-b52799310  
