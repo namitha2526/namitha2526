@@ -60,7 +60,6 @@ My focus is on high-impact systems — predictive models, intelligent agents, an
 ## 📈 Currently Working On  
 - Building agent pipelines using Watsonx  
 - Strengthening DSA (Python)  
-- Full-stack portfolio revamp  
 - Interview prep for AI/ML + SWE roles
 
 ### 📬 Connect  
