@@ -9,7 +9,7 @@
 
 ## 🔍 About Me
 
-I’m a Computer Science & Engineering student who builds real, working systems — not just tutorials.
+I’m a Computer Science & Engineering student who builds real, working systems.
 My interests sit at the intersection of AI/ML, backend engineering, and practical DevOps.
 
 I focus on:
