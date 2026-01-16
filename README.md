@@ -9,8 +9,16 @@
 
 ## 🔍 About Me
 
-I work across AI/ML engineering, full-stack development, and accessible product design.  
-My focus is on high-impact systems — predictive models, intelligent agents, and end-to-end web apps.
+I’m a Computer Science & Engineering student who builds real, working systems — not just tutorials.
+My interests sit at the intersection of AI/ML, backend engineering, and practical DevOps.
+
+I focus on:
+
+Building end-to-end projects (idea → code → deployment)
+
+Solving real problems with AI and automation
+
+Learning systems deeply instead of memorizing tools
 
 ## 🔗 My Portfolio  
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://namitha2526.github.io/Portfolio/)
